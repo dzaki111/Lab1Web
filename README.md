@@ -1,5 +1,8 @@
 # Lab1Web
-
+#### Nama   = DZAKI ARIF RAHMAN  
+#### Kelas  = TI.24.A4  
+#### NIM    = 312410312  
+#### Matkul = Pemograman Web 1 
 # Praktikum 1 – HTML Dasar
 
 
@@ -146,20 +149,29 @@ Halaman kedua `halaman2.html` dibuat dengan isi:
 
 ---
 
-## Pertanyaan (Jawaban Singkat)
+## Pertanyaan 
 
-1. **Error saat salah penulisan tag?** Browser tetap menampilkan tapi hasilnya berantakan.
-2. **Perbedaan `<p>` dan `<br>`**: `<p>` membuat paragraf baru (blok), `<br>` hanya pindah baris.
-3. **Perbedaan atribut `title` dan `alt` pada `<img>`**: `title` muncul sebagai tooltip, `alt` ditampilkan jika gambar gagal dimuat.
-4. **Width & height gambar**: cukup isi salah satu agar proporsional.
-5. **Target link (`_self`, `_blank`, `_top`, `_parent`)**: mengatur bagaimana link dibuka (tab/frame).
+<img width="962" height="235" alt="image" src="https://github.com/user-attachments/assets/17bf6004-59a8-416c-94c3-c5b7875ae5fb" />
+
+## Jawaban
+
+1.Browser biasanya masih nampilin halamannya, cuma tampilannya jadi berantakan atau ada yang nggak muncul sesuai harapan.
+
+2.<p> bikin paragraf baru (blok teks), sedangkan <br> cuma buat pindah baris di paragraf yang sama.
+
+3.title muncul kayak tooltip pas kursor diarahkan ke gambar, sedangkan alt jadi teks pengganti kalau gambar gagal dimuat.
+
+4.Cukup isi salah satu (misalnya width). Kalau dua-duanya diisi nggak sesuai rasio asli bisa bikin gambarnya ketarik/gepeng.
+
+
+5. _self → buka link di tab/frame yang sama (default).
+
+   _blank → buka link di tab baru.
+
+   _top → buka link di frame paling atas (menghapus semua frame).
+
+   _parent → buka link di frame induk (satu tingkat di atas).
 
 ---
 
-## 📌 Commit & Push
 
-```bash
-git add .
-git commit -m "Praktikum 1 HTML Dasar selesai"
-git push origin main
-```
