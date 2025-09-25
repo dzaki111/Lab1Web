@@ -81,8 +81,7 @@ Menambahkan gambar dengan tag `<img>`:
 
 ```html
 <h3>Menyisipkan Gambar</h3>
-<img src="https://bloguna.com/wp-content/uploads/2025/08/Logo-Universitas-Pelita-Bangsa-UPB-Format-PNG-CDR-EPS-SVG-PDF-AI-300x228.png"
-     alt="Logo Universitas Pelita Bangsa" width="250">
+      <img src="https://bloguna.com/wp-content/uploads/2025/08/Logo-Universitas-Pelita-Bangsa-UPB-Format-PNG-CDR-EPS-SVG-PDF-AI-300x228.png" alt="Logo Universitas Pelita Bangsa" width="250">
 ```
 
 ---
