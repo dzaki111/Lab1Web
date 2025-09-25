@@ -155,22 +155,18 @@ Halaman kedua `halaman2.html` dibuat dengan isi:
 
 ## Jawaban
 
-1.Browser biasanya masih nampilin halamannya, cuma tampilannya jadi berantakan atau ada yang nggak muncul sesuai harapan.
+1.  Browser biasanya masih nampilin halamannya, cuma tampilannya jadi berantakan atau ada yang nggak muncul sesuai harapan.  
 
-2.<p> bikin paragraf baru (blok teks), sedangkan <br> cuma buat pindah baris di paragraf yang sama.
+2. `<p>` bikin paragraf baru (blok teks), sedangkan `<br>` cuma buat pindah baris di paragraf yang sama.  
 
-3.title muncul kayak tooltip pas kursor diarahkan ke gambar, sedangkan alt jadi teks pengganti kalau gambar gagal dimuat.
+3. `title` muncul kayak tooltip pas kursor diarahkan ke gambar, sedangkan `alt` jadi teks pengganti kalau gambar gagal dimuat.  
 
-4.Cukup isi salah satu (misalnya width). Kalau dua-duanya diisi nggak sesuai rasio asli bisa bikin gambarnya ketarik/gepeng.
+4. cukup isi salah satu (misalnya width). Kalau dua-duanya diisi nggak sesuai rasio asli bisa bikin gambarnya ketarik/gepeng.  
 
-
-5. _self → buka link di tab/frame yang sama (default).
-
-   _blank → buka link di tab baru.
-
-   _top → buka link di frame paling atas (menghapus semua frame).
-
-   _parent → buka link di frame induk (satu tingkat di atas).
+5.  - `_self` → buka link di tab/frame yang sama (default).  
+    - `_blank` → buka link di tab baru.  
+    - `_top` → buka link di frame paling atas (menghapus semua frame).  
+    - `_parent` → buka link di frame induk (satu tingkat di atas).  
 
 ---
 
